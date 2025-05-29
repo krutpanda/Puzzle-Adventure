@@ -63,6 +63,16 @@ All game assets and screenshots are located in the `assets/` directory.
 
 ---
 
+## 📦 Download
+
+<p align="center">
+  <a href="https://github.com/krutpanda/Puzzle-Adventure/releases/latest/download/app-release.apk">
+    <img src="https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android" alt="Download APK"/>
+  </a>
+</p>
+
+---
+
 ## ❓ FAQ
 
 <details>
